@@ -1,0 +1,15 @@
+### Reporte de Puertos Abiertos ###
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+
+### Procesos que más consumen CPU ###
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root       10945  300  0.1  13528  4352 pts/3    R+   01:21   0:00 ps aux --sort=-%cpu
+root         961  7.6  3.5 480084 143620 tty7    Rsl+ 01:18   0:14 /usr/lib/xorg/Xorg :0 -seat seat0 -auth /var/run/lightdm/root/:0 -nolisten tcp vt7 -novtswitch
+root          45  3.4  0.0      0     0 ?        I    01:18   0:07 [kworker/u67:2-events_unbound]
+kali        1288  2.7  2.7 585216 110396 ?       Sl   01:18   0:04 xfdesktop --display :0.0 --sm-client-id 2cfc6a200-1c31-4266-9aed-72794a0c9dce
+root           1  1.6  0.3  22576 12656 ?        Ss   01:18   0:03 /sbin/init splash
+kali        1235  1.1  2.7 1267524 109556 ?      Sl   01:18   0:02 xfwm4 --display :0.0 --sm-client-id 2106c0951-4a18-4212-bdbc-156e6cf63dcf
+root         651  1.1  0.5 324572 20644 ?        Ssl  01:18   0:02 /usr/libexec/accounts-daemon
+root         923  1.0  0.4 381120 17112 ?        SLsl 01:18   0:02 /usr/sbin/lightdm
+kali        1745  1.0  2.6 463616 105464 ?       Sl   01:18   0:01 /usr/bin/qterminal
