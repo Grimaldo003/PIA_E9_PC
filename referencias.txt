@@ -4,3 +4,11 @@ Gruenauer, P. (2024, March 27). Die strenge PowerShell: Strict Mode. YouTube. ht
 
 CARDONA PAIZ, A. (2024, March 1). Repositorios Colaborativos en GitHub. YouTube. https://www.youtube.com/watch?v=cdmqz3vREjs&t=535s
 9:00 hasta el final
+
+Npcap. (2024, September 16). Npcap. https://npcap.com/ 
+
+Ciberu. (2023, January 21). 3 Proyectos Simples para tu Portafolio | Ciberseguridad 🐍. YouTube. https://www.youtube.com/watch?v=gUod_PQgJKk
+
+codigofacilito. (2022, November 9). Generar Archivos de Logs con Python - Tutorial. YouTube. https://www.youtube.com/watch?v=-jb69d_nmPE
+
+Jcva Coder. (2024, May 10). 52. HACKING CON PYTHON: APRENDE A ESPIAR EL TRÁFICO DE UNA RED WIFI. YouTube. https://www.youtube.com/watch?v=hxzDkgdxzks 
